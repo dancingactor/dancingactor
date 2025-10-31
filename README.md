@@ -1,6 +1,5 @@
-### Hi, I am dancingactor
+**dancingactor** | 🧋 Taiwan | 📫 s990346@gmail.com
 
 #### My Experience
-- Google, Associate Software Developer Intern
-- ShopBack, SWE Intern
-- 📫 s990346@gmail.com
+- Google, Associate Software Developer Intern, 2025
+- ShopBack, SWE Intern, 2024
