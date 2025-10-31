@@ -1,4 +1,4 @@
-**dancingactor** | 🧋 Taiwan | 📫 s990346@gmail.com
+👋 Hi, I am **dancingactor** | 🧋 Taiwan | 📫 s990346@gmail.com
 
 #### My Experience
 - Google, Associate Software Developer Intern, 2025
